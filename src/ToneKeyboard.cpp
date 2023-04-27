@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Wire.h>
 #include <Adafruit_LiquidCrystal.h>
 
 Adafruit_LiquidCrystal LCD(0);
